@@ -10,8 +10,8 @@ Si te sirven, colabora con los tuyos y/o deja una estrella en este repositorio.
 | 💛 | A medias |
 | 💚 | Completo |
 
-- 💔 Problema 1: Reloj de tiempo real
-- 💔 Problema 2: Detector de inclinación
+- 💚 Problema 1: Reloj de tiempo real
+- 💚 Problema 2: Detector de inclinación
 - 💔 Problema 3: Generador de vibración
 - 💔 Problema 4: Piano polifónico 
 - 💔 Problema 5: Generador de sonido
