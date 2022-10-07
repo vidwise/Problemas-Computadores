@@ -10,8 +10,8 @@ Si te sirven, colabora con los tuyos y/o deja una estrella en este repositorio.
 | 💛 | A medias |
 | 💚 | Completo |
 
-- 💔 Problema 1: Reloj de tiempo real
-- 💔 Problema 2: Detector de inclinación
+- 💚 Problema 1: Reloj de tiempo real
+- 💚 Problema 2: Detector de inclinación
 - 💔 Problema 3: Generador de vibración
 - 💔 Problema 4: Piano polifónico 
 - 💔 Problema 5: Generador de sonido
@@ -37,7 +37,11 @@ Si te sirven, colabora con los tuyos y/o deja una estrella en este repositorio.
 - 💔 Problema 25: Disparador de cámara réflex (Ex. 2ª Conv. 2017-18)
 - 💔 Problema 26: Lectura morse (Ex. 1ª Conv. 2018-19) 
 - 💔 Problema 27: Display numérico 4 dígitos (Ex. 1ª Conv. 2018-19) 
+<<<<<<< HEAD
 - 💚 Problema 28: Lector de hojas de marcas (Ex. 1ª Conv. 2018-19) 
+=======
+- 💛 Problema 28: Lector de hojas de marcas (Ex. 1ª Conv. 2018-19) 
+>>>>>>> 6c218a38a5e1ecea8baa6acd1ef60bdbbb2f8dfd
 - 💔 Problema 29: Envío de datos por RS-232-E (Ex. 2ª Conv. 2018-19)
 - 💔 Problema 30: Frecuencia cardíaca (Ex. 1ª Conv. 2019-20) 
 - 💔 Problema 31: Joystick analógico (Ex. 1ª Conv. 2019-20) 
