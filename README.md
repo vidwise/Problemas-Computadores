@@ -57,7 +57,7 @@ y ensamblador ARM para la Nintendo DS.
 
 
 
-#### Uso
+###### Uso
 Los problemas están en la carpeta `src`, numerados cardinalmente. Es conveniente añadir un pequeño `README.md` con los 
 conceptos relevantes usados en la resolución.
 
@@ -71,10 +71,7 @@ Este repositorio ha sido creado como soporte para mis clases de repaso. Si está
 unirte (sin compromiso) al grupo de WhatsApp pinchando [aquí](https://chat.whatsapp.com/LCdX5oKUFnACIxTl6hq0rO) o al 
 grupo de Discord pinchando [aquí](https://discord.gg/WMvWRwGm).
 
-## Autor(es)
-- Aleix Mariné-Tena, en nombre de VidWise Academy ([batangreet@gmail.com](batangreet@gmail.com)) 
-
-## Donaciones
+## Donaciones y agradecimientos
 
 Si usas estos problemas y quieres que los que vengan detrás de ti también puedan disfrutar de ellos, puedes:
 * Dejar una estrella en este repositorio.
@@ -87,5 +84,5 @@ Para cualquier problema, duda, sugerencia, queja o comentario también puedes co
 electrónico [batangreet@gmail.com](batangreet@gmail.com)
 
 
-
-
+## Autor
+- Aleix Mariné-Tena, en nombre de VidWise Academy ([batangreet@gmail.com](batangreet@gmail.com)) 
