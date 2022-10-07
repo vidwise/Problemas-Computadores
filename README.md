@@ -1,60 +1,91 @@
 # Problemas-Computadores
-Repositorio donde encontrar y colgar problemas de la asignatura de Computadores de la Universidad Rovira i Virgili, programados en C y ARM assembler para la Nintendo DS.
+Repositorio donde encontrar y colgar problemas de la asignatura de Computadores de la Universidad Rovira i Virgili del 
+grado de Ingeniería Informática. 
 
-Si te sirven, colabora con los tuyos y/o deja una estrella en este repositorio. 
+Estos problemas son ejercicios de programación de sincronismo de dispositivos con la CPU realizados en los lenguajes C 
+y ensamblador ARM para la Nintendo DS.
 
 ## Contenido
+
+###### Leyenda
 | Leyenda | Estado |
 | :---: | :---: |
 | 💔 | No resuelto |
 | 💛 | A medias |
 | 💚 | Completo |
 
-- 💚 Problema 1: Reloj de tiempo real
-- 💚 Problema 2: Detector de inclinación
-- 💔 Problema 3: Generador de vibración
-- 💔 Problema 4: Piano polifónico 
-- 💔 Problema 5: Generador de sonido
-- 💔 Problema 6: Micrófono 
-- 💔 Problema 7: Servomotor 
-- 💔 Problema 8: Display LCD 
-- 💔 Problema 9: Paddles (Ex. 1ª Conv. 2011-12)
-- 💔 Problema 10: Espirómetro (Ex. 2ª Conv. 2011-12)
-- 💔 Problema 11: Lector de códigos de barras (Ex. 1ª Conv. 2012-13)
-- 💔 Problema 12: Sensor de distancia (Ex. 1ª Conv. 2013-14) 
-- 💔 Problema 13: Tensiómetro (Ex. 2ª Conv. 2013-14) 
-- 💔 Problema 14: Teclado numérico (Ex. 1ª Conv. 2014-15)
-- 💔 Problema 15: Display de LEDs (Ex. 2ª Conv. 2014-15)
-- 💔 Problema 16: Propeller display (Ex. 1ª Conv. 2015-16) 
-- 💔 Problema 17: Velocímetro para bicicletas (Ex. 1ª Conv. 2015-16) 
-- 💔 Problema 18: Luz LED regulada por PWM (Ex. 2ª Conv. 2015-16) 
-- 💔 Problema 19: Anemómetro electrónico (Ex. 1ª Conv. 2016-17) 
-- 💔 Problema 20: Motor de tracción (Ex. 1ª Conv. 2016-17) 
-- 💔 Problema 21: Emisor IR (Ex. 2ª Conv. 2016-17) 
-- 💔 Problema 22: Ascensor con memoria (Ex. 1ª Conv. 2017-18)
-- 💛 Problema 23: Matriz 8x8 LEDs (Ex. 1ª Conv. 2017-18) 
-- 💔 Problema 24: Boca artificial (Ex. 1ª Conv. 2017-18) 
-- 💔 Problema 25: Disparador de cámara réflex (Ex. 2ª Conv. 2017-18)
-- 💔 Problema 26: Lectura morse (Ex. 1ª Conv. 2018-19) 
-- 💔 Problema 27: Display numérico 4 dígitos (Ex. 1ª Conv. 2018-19) 
-<<<<<<< HEAD
-- 💚 Problema 28: Lector de hojas de marcas (Ex. 1ª Conv. 2018-19) 
-=======
-- 💛 Problema 28: Lector de hojas de marcas (Ex. 1ª Conv. 2018-19) 
->>>>>>> 6c218a38a5e1ecea8baa6acd1ef60bdbbb2f8dfd
-- 💔 Problema 29: Envío de datos por RS-232-E (Ex. 2ª Conv. 2018-19)
-- 💔 Problema 30: Frecuencia cardíaca (Ex. 1ª Conv. 2019-20) 
-- 💔 Problema 31: Joystick analógico (Ex. 1ª Conv. 2019-20) 
-- 💔 Problema 32: Caudalímetros (Ex. 2ª Conv. 2019-20) 
-- 💔 Problema 33: Tiempo de tránsito del pulso (Ex. 1ª Conv. 2020-21)
-- 💚 Problema 34: Combinaciones de color (Ex. 2ª Conv. 2020-21) 
+
+---
+| Nº    | Nombre                          | Año     | Convocatoria | Estado solución | Vídeo Resolución                    |
+| :---: | :-----------------------------: | :---:   | :----------: | :-------------: | :---------------------------------: |
+| 1     | Reloj de tiempo real            | -       | -            | 💚               | [📺](https://youtu.be/4TT_tyNeHog)  |
+| 2     | Detector de inclinación         | -       | -            | 💚               | [📺](https://youtu.be/4TT_tyNeHog)  |
+| 3     | Generador de vibración          | -       | -            | 💔               |                                    |
+| 4     | Piano polifónico                | -       | -            | 💔               |                                    |
+| 5     | Generador de sonido             | -       | -            | 💔               |                                    |
+| 6     | Micrófono                       | -       | -            | 💔               |                                    |
+| 7     | Servomotor                      | -       | -            | 💔               |                                    |
+| 8     | Display LCD                     | -       | -            | 💔               |                                    |
+| 9     | Paddles                         | 2011-12 | 1ª Conv.     | 💔               |                                    |
+| 10    | Espirómetro                     | 2011-12 | 2ª Conv.     | 💔               |                                    |
+| 11    | Lector de códigos de barras     | 2012-13 | 1ª Conv.     | 💔               |                                    |
+| 12    | Sensor de distancia             | 2013-14 | 1ª Conv.     | 💔               |                                    |
+| 13    | Tensiómetro                     | 2013-14 | 1ª Conv.     | 💔               |                                    |
+| 14    | Teclado numérico                | 2014-15 | 2ª Conv.     | 💔               |                                    |
+| 15    | Display de LEDs                 | 2014-15 | 1ª Conv.     | 💔               |                                    |
+| 16    | Propeller display               | 2015-16 | 2ª Conv.     | 💔               |                                    |
+| 17    | Velocímetro para bicicletas     | 2015-16 | 1ª Conv.     | 💔               |                                    |
+| 18    | Luz LED regulada por PWM        | 2015-16 | 1ª Conv.     | 💔               |                                    |
+| 19    | Anemómetro electrónico          | 2016-17 | 2ª Conv.     | 💔               |                                    |
+| 20    | Motor de tracción               | 2016-17 | 1ª Conv.     | 💔               |                                    |
+| 21    | Emisor IR                       | 2016-17 | 1ª Conv.     | 💔               |                                    |
+| 22    | Ascensor con memoria            | 2017-18 | 2ª Conv.     | 💔               |                                    |
+| 23    | Matriz 8x8 LEDs                 | 2017-18 | 1ª Conv.     | 💛               |                                    |
+| 24    | Boca artificial                 | 2017-18 | 1ª Conv.     | 💔               |                                    |
+| 25    | Disparador de cámara réflex     | 2017-18 | 1ª Conv.     | 💔               |                                    |
+| 26    | Lectura morse                   | 2018-19 | 2ª Conv.     | 💔               |                                    |
+| 27    | Display numérico 4 dígitos      | 2018-19 | 1ª Conv.     | 💔               |                                    |
+| 28    | Lector de hojas de marcas       | 2018-19 | 1ª Conv.     | 💛               |                                    |
+| 29    | Envío de datos por RS-232-E     | 2018-19 | 2ª Conv.     | 💔               |                                    |
+| 30    | Frecuencia cardíaca             | 2019-20 | 1ª Conv.     | 💔               |                                    |
+| 31    | Joystick analógico              | 2019-20 | 1ª Conv.     | 💔               |                                    |
+| 32    | Caudalímetros                   | 2019-20 | 2ª Conv.     | 💔               |                                    |
+| 33    | Tiempo de tránsito del pulso    | 2020-21 | 1ª Conv.     | 💔               |                                    |
+| 34    | Combinaciones de color          | 2020-21 | 2ª Conv.     | 💚               |                                    |
+| 35?   | ?                               | 2021-22 | 1ª Conv.     | 💔               |                                    |
+| 36?   | ?                               | 2021-22 | 2ª Conv.     | 💔               |                                    |
+
+
 
 #### Uso
-Los problemas están en la carpeta `src` numerados cardinalmente. Es conveniente añadir un pequeño `README.md` con los conceptos relevantes usados en la resolución.
+Los problemas están en la carpeta `src`, numerados cardinalmente. Es conveniente añadir un pequeño `README.md` con los 
+conceptos relevantes usados en la resolución.
 
 En la carpeta `doc` se pueden encontrar los enunciados de todos los problemas.
 
-## Agradecimientos
+Los vídeos de las resoluciones de cada problema son de pago. Actualmente todavía estoy automatizando este servicio, 
+por lo que si quieres adquirirlos deberás contactarme directamente y poseer una cuenta de correo electrónico de *Gmail* 
+donde recibirás los vídeos.
 
-Autores de las soluciones:
-- Aleix Mariné (aleixaretra@gmail.com)
+Este repositorio ha sido creado como soporte para mis clases de repaso. Si estás interesad@ en estos servicios puedes 
+unirte (sin compromiso) al grupo de WhatsApp pinchando [aquí](https://chat.whatsapp.com/LCdX5oKUFnACIxTl6hq0rO) o al 
+grupo de Discord pinchando [aquí](https://discord.gg/WMvWRwGm).
+
+## Autor(es)
+- Aleix Mariné-Tena, en nombre de VidWise Academy ([batangreet@gmail.com](batangreet@gmail.com)) 
+
+## Donaciones
+
+Si usas estos problemas y quieres que los que vengan detrás de ti también puedan disfrutar de ellos, puedes:
+* Dejar una estrella en este repositorio.
+* Compartir este repositorio a quien le pueda interesar.
+* Colaborar con tus propias soluciones usando una *pull request*.  
+* Proponer optimizaciones a las soluciones usando una *pull request* o abriendo un nuevo *issue*. 
+* Hacerme una pequeña donación a través de mi [Buy Me A Coffe](https://www.buymeacoffee.com/VidWise).
+
+Para cualquier problema, duda, sugerencia, queja o comentario también puedes contactarme a mi dirección de correo 
+electrónico [batangreet@gmail.com](batangreet@gmail.com)
+
+
+
+
