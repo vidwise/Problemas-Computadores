@@ -10,9 +10,12 @@ y ensamblador ARM para la Nintendo DS.
 ###### Leyenda
 | Leyenda | Estado |
 | :---: | :---: |
-| 💔 | No resuelto |
-| 💛 | A medias |
-| 💚 | Completo |
+| 🖤 | No resuelto |
+| ❤️ | Solución incompleta |
+| 🧡 | Solución con incorrecciones |
+| 💛 | Solución correcta mejorable |
+| 💚 | Solución optimizada |
+| 💖 | Solución del profesor |
 
 
 ---
@@ -20,7 +23,7 @@ y ensamblador ARM para la Nintendo DS.
 | :---: | :-----------------------------: | :---:   | :----------: | :-------------: | :---------------------------------: |
 | 1     | Reloj de tiempo real            | -       | -            | 💚               | [📺](https://youtu.be/4TT_tyNeHog)  |
 | 2     | Detector de inclinación         | -       | -            | 💚               | [📺](https://youtu.be/4TT_tyNeHog)  |
-| 3     | Generador de vibración          | -       | -            | 💔               |                                    |
+| 3     | Generador de vibración          | -       | -            | 💖               |                                    |
 | 4     | Piano polifónico                | -       | -            | 💔               |                                    |
 | 5     | Generador de sonido             | -       | -            | 💔               |                                    |
 | 6     | Micrófono                       | -       | -            | 💔               |                                    |
