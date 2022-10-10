@@ -25,18 +25,18 @@ y ensamblador ARM para la Nintendo DS.
 | 2     | Detector de inclinación         | -       | -            | 💚               | [📺](https://youtu.be/4TT_tyNeHog)  |
 | 3     | Generador de vibración          | -       | -            | 💖               |                                    |
 | 4     | Piano polifónico                | -       | -            | 🖤               |                                    |
-| 5     | Generador de sonido             | -       | -            | 🖤               |                                    |
+| 5     | Generador de sonido             | -       | -            | 💖               |                                    |
 | 6     | Micrófono                       | -       | -            | 🖤               |                                    |
 | 7     | Servomotor                      | -       | -            | 🖤               |                                    |
 | 8     | Display LCD                     | -       | -            | 🖤               |                                    |
 | 9     | Paddles                         | 2011-12 | 1ª Conv.     | 💖               |                                    |
 | 10    | Espirómetro                     | 2011-12 | 2ª Conv.     | 🖤               |                                    |
-| 11    | Lector de códigos de barras     | 2012-13 | 1ª Conv.     | 🖤               |                                    |
+| 11    | Lector de códigos de barras     | 2012-13 | 1ª Conv.     | 💖               |                                    |
 | 12    | Sensor de distancia             | 2013-14 | 1ª Conv.     | 🖤               |                                    |
 | 13    | Tensiómetro                     | 2013-14 | 1ª Conv.     | 🖤               |                                    |
 | 14    | Teclado numérico                | 2014-15 | 2ª Conv.     | 💖               |                                    |
 | 15    | Display de LEDs                 | 2014-15 | 1ª Conv.     | 🖤               |                                    |
-| 16    | Propeller display               | 2015-16 | 2ª Conv.     | 🖤               |                                    |
+| 16    | Propeller display               | 2015-16 | 2ª Conv.     | 💖               |                                    |
 | 17    | Velocímetro para bicicletas     | 2015-16 | 1ª Conv.     | 🖤               |                                    |
 | 18    | Luz LED regulada por PWM        | 2015-16 | 1ª Conv.     | 🖤               |                                    |
 | 19    | Anemómetro electrónico          | 2016-17 | 2ª Conv.     | 🖤               |                                    |
