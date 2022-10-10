@@ -29,7 +29,7 @@ y ensamblador ARM para la Nintendo DS.
 | 6     | Micrófono                       | -       | -            | 🖤               |                                    |
 | 7     | Servomotor                      | -       | -            | 🖤               |                                    |
 | 8     | Display LCD                     | -       | -            | 🖤               |                                    |
-| 9     | Paddles                         | 2011-12 | 1ª Conv.     | 🖤               |                                    |
+| 9     | Paddles                         | 2011-12 | 1ª Conv.     | 💖               |                                    |
 | 10    | Espirómetro                     | 2011-12 | 2ª Conv.     | 🖤               |                                    |
 | 11    | Lector de códigos de barras     | 2012-13 | 1ª Conv.     | 🖤               |                                    |
 | 12    | Sensor de distancia             | 2013-14 | 1ª Conv.     | 🖤               |                                    |
