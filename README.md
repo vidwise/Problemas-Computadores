@@ -42,7 +42,7 @@ y ensamblador ARM para la Nintendo DS.
 | 19    | Anemómetro electrónico          | 2016-17 | 2ª Conv.     | 🖤               |                                    |
 | 20    | Motor de tracción               | 2016-17 | 1ª Conv.     | 💖               |                                    |
 | 21    | Emisor IR                       | 2016-17 | 1ª Conv.     | 🖤               |                                    |
-| 22    | Ascensor con memoria            | 2017-18 | 2ª Conv.     | 🖤               |                                    |
+| 22    | Ascensor con memoria            | 2017-18 | 2ª Conv.     | 💖               |                                    |
 | 23    | Matriz 8x8 LEDs                 | 2017-18 | 1ª Conv.     | ❤️               |                                    |
 | 24    | Boca artificial                 | 2017-18 | 1ª Conv.     | 🖤               |                                    |
 | 25    | Disparador de cámara réflex     | 2017-18 | 1ª Conv.     | 🖤               |                                    |
