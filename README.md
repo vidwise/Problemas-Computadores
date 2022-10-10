@@ -43,7 +43,7 @@ y ensamblador ARM para la Nintendo DS.
 | 20    | Motor de tracción               | 2016-17 | 1ª Conv.     | 💖               |                                    |
 | 21    | Emisor IR                       | 2016-17 | 1ª Conv.     | 🖤               |                                    |
 | 22    | Ascensor con memoria            | 2017-18 | 2ª Conv.     | 💖               |                                    |
-| 23    | Matriz 8x8 LEDs                 | 2017-18 | 1ª Conv.     | ❤️               |                                    |
+| 23    | Matriz 8x8 LEDs                 | 2017-18 | 1ª Conv.     | 💖️               |                                    |
 | 24    | Boca artificial                 | 2017-18 | 1ª Conv.     | 🖤               |                                    |
 | 25    | Disparador de cámara réflex     | 2017-18 | 1ª Conv.     | 🖤               |                                    |
 | 26    | Lectura morse                   | 2018-19 | 2ª Conv.     | 🖤               |                                    |
@@ -54,9 +54,9 @@ y ensamblador ARM para la Nintendo DS.
 | 31    | Joystick analógico              | 2019-20 | 1ª Conv.     | 🖤               |                                    |
 | 32    | Caudalímetros                   | 2019-20 | 2ª Conv.     | 🖤               |                                    |
 | 33    | Tiempo de tránsito del pulso    | 2020-21 | 1ª Conv.     | 🖤               |                                    |
-| 34    | Combinaciones de color          | 2020-21 | 2ª Conv.     | 💚               |                                    |
+| 34    | Combinaciones de color          | 2020-21 | 2ª Conv.     | ❤️               |                                    |
 | 35?   | ?                               | 2021-22 | 1ª Conv.     | 🖤               |                                    |
-| 36?   | ?                               | 2021-22 | 2ª Conv.     | 🖤               |                                    |
+| 36?   | ?                               | 2021-22 | 2ª Conv.     | ❤️               |                                    |
 
 
 
