@@ -1,38 +1,37 @@
 
+
+
 @; Me entra puntero a char de 6 pos en r0
 capturar_tiempo:
-push{r0-r4, lr}
-    bl iniciar_RTC
-    mov r2, r0  @; backup en r2 @ base array salida
-    mov r0, #0x26
-    bl enviar_RTC
+push{r0-r5, lr}
+        bl iniciar_RTC
+        mov r4, r0
+        mov r0, #0x26
+        bl enviar_RTC
 
-    @; Empieza bucle
-    mov r1, #-1  @; Indice array
-    mov r4, #0  @; weekday found 
+        @; Empieza bucle
+        mov r2, #0
+        mov r3, #0
 
-    .loop:
+        .loop:
 
-    bl recibir_RTC  @; r0 tiene el valor
+        bl recibir_RTC  @; r0 tiene el valor
 
-    cmp r1, #2  @; we check with 2 because the index is equal to the num of signals -1 (for the offset) -1 (for counting with 0), to check for the fourth signal
-    bne .sumAndNext 
-    
-    @; we are receiving the fourth trash value or the fifth correct value
-    cmp r4, #1
-    beq .sumAndNext  @; we have good value in r0, keep iterating
-    
-    @; currently the bad value in r0
-    mov r4, #1  @; now we know we have seen the trash value
-    bne .loop  @; continue 
+        cmp r3, #3
+        beq .LfinIf
 
-    .sumAndNext
-    add r1, #1
-    .next:
-    strb r0, [r2, r1]
+        mov r1, r0, lsr #4
+        and r0, #0xF
+        mov r5, #10
+        mla r0, r1, r5, r0
+        strb r0, [r4, r2]
+        add r2, #1
 
-    cmp r1, #5
-    bne .loop
+    .LfinIf:
 
-    bl parar_RTC
-pop{r0-r4, pc}
+        add r3, #1
+        cmp r1, #7
+        blo .loop
+
+        bl parar_RTC
+pop{r0-r5, pc}
