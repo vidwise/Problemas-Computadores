@@ -49,7 +49,7 @@ más periféricos con el procesador de la *Nintendo DS* usando interrupciones u 
 | 23    | Matriz 8x8 LEDs                 | 2017-18 | 1ª Conv.     | 💖️               |  ⛔                                  |
 | 24    | Boca artificial                 | 2017-18 | 1ª Conv.     | 🖤               |  ⛔                                  |
 | 25    | Disparador de cámara réflex     | 2017-18 | 1ª Conv.     | 🖤               |  ⛔                                  |
-| 26    | Lectura morse                   | 2018-19 | 2ª Conv.     | 🖤               |  ⛔                                  |
+| 26    | Lectura morse                   | 2018-19 | 2ª Conv.     | 💖               |  ⛔                                  |
 | 27    | Display numérico 4 dígitos      | 2018-19 | 1ª Conv.     | 💖               |  ⛔                                  |
 | 28    | Lector de hojas de marcas       | 2018-19 | 1ª Conv.     | 💛               |  ⛔                                  |
 | 29    | Envío de datos por RS-232-E     | 2018-19 | 2ª Conv.     | 🖤               |  ⛔                                  |
