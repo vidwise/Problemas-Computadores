@@ -7,7 +7,7 @@ RSI_Lector:
         ldr r2, [r1]                @; R2 = valor actual de i_elem
         cmp r2, #0
         beq .L_lector_0             @; en primera interrup. solo inicia cronómetro
-        cmp r2, #27
+        cmp r2, #T_ELEM
         bhi .L_fin_lector           @; filtra posibles interrupciones sobrantes
         bl cpuGetTiming             @; R0 = número tics respecto int. anterior
         ldr r3, =t_abs
