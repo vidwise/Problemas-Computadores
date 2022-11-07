@@ -34,7 +34,7 @@ más periféricos con el procesador de la *Nintendo DS* usando interrupciones u 
 | 8     | Display LCD                     | -       | -            | 🖤               |  ⛔                                  |
 | 9     | Paddles                         | 2011-12 | 1ª Conv.     | 💖               |  ⛔                                  |
 | 10    | Espirómetro                     | 2011-12 | 2ª Conv.     | 💖               |  ⛔                                  |
-| 11    | Lector de códigos de barras     | 2012-13 | 1ª Conv.     | 💖               |  ⛔                                  |
+| 11    | Lector de códigos de barras     | 2012-13 | 1ª Conv.     | 💖               |  [📺](https://youtu.be/reCE6SNxWKg)  |
 | 12    | Sensor de distancia             | 2013-14 | 1ª Conv.     | 🖤               |  ⛔                                  |
 | 13    | Tensiómetro                     | 2013-14 | 1ª Conv.     | 🖤               |  ⛔                                  |
 | 14    | Teclado numérico                | 2014-15 | 2ª Conv.     | 💖               |  ⛔                                  |
