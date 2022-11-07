@@ -35,7 +35,7 @@ más periféricos con el procesador de la *Nintendo DS* usando interrupciones u 
 | 9     | Paddles                         | 2011-12 | 1ª Conv.     | 💖               |  ⛔                                  |
 | 10    | Espirómetro                     | 2011-12 | 2ª Conv.     | 💖               |  ⛔                                  |
 | 11    | Lector de códigos de barras     | 2012-13 | 1ª Conv.     | 💖               |  [📺](https://youtu.be/reCE6SNxWKg)  |
-| 12    | Sensor de distancia             | 2013-14 | 1ª Conv.     | 🖤               |  ⛔                                  |
+| 12    | Sensor de distancia             | 2013-14 | 1ª Conv.     | 🧡               |  ⛔                                  |
 | 13    | Tensiómetro                     | 2013-14 | 1ª Conv.     | 🖤               |  ⛔                                  |
 | 14    | Teclado numérico                | 2014-15 | 2ª Conv.     | 💖               |  ⛔                                  |
 | 15    | Display de LEDs                 | 2014-15 | 1ª Conv.     | 🖤               |  ⛔                                  |
@@ -103,6 +103,7 @@ unirte (sin compromiso) al grupo de *WhatsApp* pinchando [aquí](https://chat.wh
 grupo de *Discord* pinchando [aquí](https://discord.gg/WMvWRwGm).
 
 ## Autoría, colaboraciones y agradecimientos
-- Aleix Mariné-Tena, autor y mantenedor de este repositorio, en nombre de VidWise Academy
+- Aleix Mariné-Tena (@AleixMT), autor y mantenedor de este repositorio, en nombre de VidWise Academy.
 ([batangreet@gmail.com](batangreet@gmail.com)).
 - Santiago Romaní, autor de los problemas.
+- Arey Ferrero Ramos, colaborador.
