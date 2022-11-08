@@ -35,7 +35,7 @@ más periféricos con el procesador de la *Nintendo DS* usando interrupciones u 
 | 9     | Paddles                         | 2011-12 | 1ª Conv.     | 💖               |  ⛔                                  |
 | 10    | Espirómetro                     | 2011-12 | 2ª Conv.     | 💖               |  ⛔                                  |
 | 11    | Lector de códigos de barras     | 2012-13 | 1ª Conv.     | 💖               |  [📺](https://youtu.be/reCE6SNxWKg)  |
-| 12    | Sensor de distancia             | 2013-14 | 1ª Conv.     | 🧡               |  ⛔                                  |
+| 12    | Sensor de distancia             | 2013-14 | 1ª Conv.     | 💚               |  ⛔                                  |
 | 13    | Tensiómetro                     | 2013-14 | 1ª Conv.     | 🖤               |  ⛔                                  |
 | 14    | Teclado numérico                | 2014-15 | 2ª Conv.     | 💖               |  ⛔                                  |
 | 15    | Display de LEDs                 | 2014-15 | 1ª Conv.     | 🖤               |  ⛔                                  |
@@ -78,7 +78,7 @@ Dentro de la carpeta de cada problema encontramos varios elementos:
  * **Archivos de la solución**. Si el problema está resuelto también podremos encontrar los archivos de la solución. 
    Según lo que pida el problema, la solución consiste en uno o más archivos con extensión 
    `.c` (si contienen código C) o `.s` (si contienen código ensamblador). Cada archivo `.c` o `.s` tiene el nombre de la
-   rutina que implementa.
+   única rutina que implementa.
  * **Carpetas con soluciones alternativas**: Por motivos didácticos puede existir más de una solución tal y como se 
    define en el punto anterior. Esta solución será visible como una carpeta con el nombre `alternativa_N`, 
    donde `N` es el número de solución, empezando a contar por 1. Esta carpeta contendrá los **Archivos de la solución**
