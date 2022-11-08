@@ -29,4 +29,5 @@ int main()
             swiWitForVBlank();
         }
     } while (1);
+    return 0;
 }

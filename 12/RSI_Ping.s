@@ -1,4 +1,4 @@
-@; RSI del sensor de distancia.
+		@; RSI del sensor de distancia.
 RSI_Ping:
 	push {r0-r2, lr}
 	ldr r2, =fase

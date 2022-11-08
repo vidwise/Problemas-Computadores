@@ -70,12 +70,20 @@ el cual puede ser encontrado para cada problema según la tabla de la sección a
 Dentro de la carpeta de cada problema encontramos varios elementos: 
  * **El enunciado del problema correspondiente en un archivo `.pdf`** con el mismo nombre que el número de problema. 
    Esto es útil, ya que hace el enunciado visible públicamente y accesible directamente a través de un navegador, usando 
-   la interfaz web de *GitHub*.
- * **Apuntes para la solución en un archivo `README.md`**. Se usan para explicar cualquier concepto relevante de la 
-   solución.
- * **Archivos de la solución**. Según lo que pida el problema, la solución consiste en uno o más archivos con extensión 
-   `.c` (si contienen código C) o `.s` (si contienen código ensamblador). Cada rutina del problema tiene su 
-   correspondiente archivo individual con el mismo nombre que la rutina que implementa.
+   la interfaz web de *GitHub*. Por ejemplo, el enunciado del problema 1 puede verse usando 
+   [este](https://github.com/AleixMT/Problemas-Computadores/blob/master/1/1.pdf) enlace. Lo mismo para las soluciones o 
+   cualquier otro archivo. 
+ * **Apuntes para la solución en un archivo `README.md`**: Se usan para explicar cualquier concepto relevante de la 
+   solución. 
+ * **Archivos de la solución**. Si el problema está resuelto también podremos encontrar los archivos de la solución. 
+   Según lo que pida el problema, la solución consiste en uno o más archivos con extensión 
+   `.c` (si contienen código C) o `.s` (si contienen código ensamblador). Cada archivo `.c` o `.s` tiene el nombre de la
+   rutina que implementa.
+ * **Carpetas con soluciones alternativas**: Por motivos didácticos puede existir más de una solución tal y como se 
+   define en el punto anterior. Esta solución será visible como una carpeta con el nombre `alternativa_N`, 
+   donde `N` es el número de solución, empezando a contar por 1. Esta carpeta contendrá los **Archivos de la solución**
+   y los **Apuntes para la solución en un archivo `README.md`**, con las mismas características que se definen en los 
+   puntos anteriores.
  
 Existen vídeos de las resoluciones de los problemas paso por paso. Estos pueden encontrarse pinchando en los emojis de 
 televisión (📺) en la última columna de la tabla de la sección anterior. Cada emoji redirige a un vídeo de youtube con 
