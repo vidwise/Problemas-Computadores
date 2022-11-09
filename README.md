@@ -103,7 +103,7 @@ Si usas estas soluciones y quieres que los que vengan detrás de ti también pue
 * Hacer una pequeña donación a través de nuestro [Buy Me A Coffee](https://www.buymeacoffee.com/VidWise).
 
 Para cualquier problema, duda, sugerencia, queja o comentario también puedes contactar con la dirección de correo 
-electrónico [batangreet@gmail.com](batangreet@gmail.com)
+electrónico [batangreet@gmail.com](batangreet@gmail.com).
 
 ## Motivación
 Este repositorio ha sido creado como soporte para clases de repaso. Si estás interesad@ en estos servicios puedes
