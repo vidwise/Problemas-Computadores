@@ -22,10 +22,10 @@ más periféricos con el procesador de la *Nintendo DS* usando interrupciones u 
 | ⛔️ | No tiene vídeo (aún) |
 
 #### Sumario 
-| Nº    | Nombre                          | Año     | Convocatoria | Estado solución | Vídeo Resolución                    |
-| :---: | :-----------------------------: | :---:   | :----------: | :-------------: | :---------------------------------: |
-| 1     | Reloj de tiempo real            | -       | -            | 💖               | [📺](https://youtu.be/4TT_tyNeHog)  |
-| 2     | Detector de inclinación         | -       | -            | 💚               | [📺](https://youtu.be/4TT_tyNeHog)  |
+| Nº    | Nombre                          | Año     | Convocatoria | Estado solución | Vídeo Resolución                      |
+| :---: | :-----------------------------: | :---:   | :----------: | :-------------: | :---------------------------------:   |
+| 1     | Reloj de tiempo real            | -       | -            | 💖               | [📺](https://youtu.be/4TT_tyNeHog)   |
+| 2     | Detector de inclinación         | -       | -            | 💚               | [📺](https://youtu.be/4TT_tyNeHog)   |
 | 3     | Generador de vibración          | -       | -            | 💖               |  ⛔                                  |
 | 4     | Piano polifónico                | -       | -            | 🖤               |  ⛔                                  |
 | 5     | Generador de sonido             | -       | -            | 💖               |  ⛔                                  |
@@ -57,9 +57,9 @@ más periféricos con el procesador de la *Nintendo DS* usando interrupciones u 
 | 31    | Joystick analógico              | 2019-20 | 1ª Conv.     | 🖤               |  ⛔                                  |
 | 32    | Caudalímetros                   | 2019-20 | 2ª Conv.     | 🖤               |  ⛔                                  |
 | 33    | Tiempo de tránsito del pulso    | 2020-21 | 1ª Conv.     | 🖤               |  ⛔                                  |
-| 34    | Combinaciones de color          | 2020-21 | 2ª Conv.     | ❤️               |  ⛔                                  |
-| 35    | Metrónomo digital               | 2021-22 | 1ª Conv. M   | 🖤               | ⛔                                   |
-| 36    | Control de telescopio           | 2021-22 | 1ª Conv. T   | ❤️               | ⛔                                   |
+| 34    | Combinaciones de color          | 2020-21 | 2ª Conv.     | ❤️                |  ⛔                                  |
+| 35    | Metrónomo digital               | 2021-22 | 1ª Conv. M   | 🖤               |  ⛔                                  |
+| 36    | Control de telescopio           | 2021-22 | 1ª Conv. T   | ❤️                |  ⛔                                  |
 
 
 
