@@ -58,8 +58,8 @@ más periféricos con el procesador de la *Nintendo DS* usando interrupciones u 
 | 32    | Caudalímetros                   | 2019-20 | 2ª Conv.     | 🖤               |  ⛔                                  |
 | 33    | Tiempo de tránsito del pulso    | 2020-21 | 1ª Conv.     | 🖤               |  ⛔                                  |
 | 34    | Combinaciones de color          | 2020-21 | 2ª Conv.     | ❤️               |  ⛔                                  |
-| 35?   | ?                               | 2021-22 | 1ª Conv.     | 🖤 (sin enunciado) | ⛔                                 |
-| 36?   | ?                               | 2021-22 | 2ª Conv.     | ❤️ (sin enunciado) | ⛔                                 |
+| 35    | Metrónomo digital               | 2021-22 | 1ª Conv. M   | 🖤               | ⛔                                   |
+| 36    | Control de telescopio           | 2021-22 | 1ª Conv. T   | ❤️               | ⛔                                   |
 
 
 
