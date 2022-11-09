@@ -1,0 +1,1 @@
+# Lector de códigos de barras
