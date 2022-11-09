@@ -36,6 +36,12 @@ normalizar_tiempos:
                                     @; R2 = min(t_abs[0], t_abs[1], t_abs[2])
     .Lnorm_cont3:
         mov r6, r3                  @; R3 = mediana(t_abs[0], t_abs[1], t_abs[2])
+
+
+
+
+        T - (1 / 8) * T = (8 / 8) T - (1 / 8) T  = (7 / 8) T
+
         sub r6, r3, lsr #3          @; R6 = T = (7/8)R3 (reducción preventiva)
         mov r2, r0                  @; R2 = dirección inicial t_abs[]
         mov r4, r1                  @; R4 = dirección inicial t_rel[]
