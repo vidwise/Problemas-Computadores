@@ -113,5 +113,5 @@ grupo de *Discord* pinchando [aquí](https://discord.gg/WMvWRwGm).
 ## Autoría, colaboraciones y agradecimientos
 - Aleix Mariné-Tena (@AleixMT), autor y mantenedor de este repositorio, en nombre de VidWise Academy.
 ([batangreet@gmail.com](batangreet@gmail.com)).
-- Santiago Romaní, autor de los problemas.
+- Santiago Romaní Also, autor de los problemas.
 - Arey Ferrero Ramos, colaborador ([areyfr@gmail.com](areyfr@gmail.com)).
