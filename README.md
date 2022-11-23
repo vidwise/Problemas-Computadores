@@ -57,9 +57,10 @@ más periféricos con el procesador de la *Nintendo DS* usando interrupciones u 
 | 31    | Joystick analógico              | 2019-20 | 1ª Conv.     | 🖤               |  ⛔                                  |
 | 32    | Caudalímetros                   | 2019-20 | 2ª Conv.     | 🖤               |  ⛔                                  |
 | 33    | Tiempo de tránsito del pulso    | 2020-21 | 1ª Conv.     | 🖤               |  ⛔                                  |
-| 34    | Combinaciones de color          | 2020-21 | 2ª Conv.     | ❤️                |  ⛔                                  |
+| 34    | Combinaciones de color          | 2020-21 | 2ª Conv.     | ❤️               |  ⛔                                  |
 | 35    | Metrónomo digital               | 2021-22 | 1ª Conv. M   | 🖤               |  ⛔                                  |
-| 36    | Control de telescopio           | 2021-22 | 1ª Conv. T   | ❤️                |  ⛔                                  |
+| 36    | Control de telescopio           | 2021-22 | 1ª Conv. T   | ❤️               |  ⛔                                  |
+| 37    | Escritura Morse                 | 2021-22 | 2º Conv.     | ❤️               |  ⛔                                  |
 
 
 
@@ -90,7 +91,7 @@ televisión (📺) en la última columna de la tabla de la sección anterior. Ca
 la resolución correspondiente.
 
 ###### Accesibilidad 
-Los códigos de las soluciones de cada problema són públicas y gratuitas. Los vídeos de las resoluciones de cada problema 
+Los códigos de las soluciones de cada problema són públicos y gratuitos. Los vídeos de las resoluciones de cada problema 
 son de pago. Actualmente todavía se está automatizando este servicio, por lo que si quieres adquirirlos deberás 
 contactarnos directamente y poseer una cuenta de correo electrónico de *Gmail* donde recibirás los vídeos.
 
