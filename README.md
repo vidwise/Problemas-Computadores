@@ -71,7 +71,7 @@ Dentro de la carpeta de cada problema encontramos varios elementos:
  * **El enunciado del problema correspondiente en un archivo `.pdf`** con el mismo nombre que el número de problema. 
    Esto es útil, ya que hace el enunciado visible públicamente y accesible directamente a través de un navegador, usando 
    la interfaz web de *GitHub*. Por ejemplo, el enunciado del problema 1 puede verse usando 
-   [este](https://github.com/AleixMT/Problemas-Computadores/blob/master/1/1.pdf) enlace. Lo mismo para las soluciones o 
+   [este](https://github.com/AleixMT/Problemas-Computadores/blob/master/01/1.pdf) enlace. Lo mismo para las soluciones o 
    cualquier otro archivo. 
  * **Apuntes para la solución en un archivo `README.md`**: Se usan para explicar cualquier concepto relevante de la 
    solución. 
