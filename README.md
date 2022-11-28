@@ -51,7 +51,7 @@ más periféricos con el procesador de la *Nintendo DS* usando interrupciones u 
 | 25    | Disparador de cámara réflex     | 2017-18 | 1ª Conv.     | 🖤               |  ⛔                                  |
 | 26    | Lectura morse                   | 2018-19 | 2ª Conv.     | 💖               |  ⛔                                  |
 | 27    | Display numérico 4 dígitos      | 2018-19 | 1ª Conv.     | 💖               |  ⛔                                  |
-| 28    | Lector de hojas de marcas       | 2018-19 | 1ª Conv.     | 💛               |  ⛔                                  |
+| 28    | Lector de hojas de marcas       | 2018-19 | 1ª Conv.     | 💖               |  ⛔                                  |
 | 29    | Envío de datos por RS-232-E     | 2018-19 | 2ª Conv.     | 🖤               |  ⛔                                  |
 | 30    | Frecuencia cardíaca             | 2019-20 | 1ª Conv.     | 🖤               |  ⛔                                  |
 | 31    | Joystick analógico              | 2019-20 | 1ª Conv.     | 🖤               |  ⛔                                  |
