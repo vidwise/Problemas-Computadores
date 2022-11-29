@@ -23,7 +23,6 @@ más periféricos con las CPUs de la *Nintendo DS* usando interrupciones u otros
 ---
 
 
-#### Sumario 
 | Nº    | Nombre                                                                                                                                                                              | Año     | Convocatoria | Estado solución  | Vídeo Resolución                    | 
 | :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---:   | :----------: | :--------------: | :---------------------------------: |
 | 1     | [Reloj de tiempo real](https://github.com/AleixMT/Problemas-Computadores/blob/master/01/1.pdf) [📥](https://github.com/AleixMT/Problemas-Computadores/raw/master/01/1.pdf)           | -       | -            | 💖               | [📺](https://youtu.be/4TT_tyNeHog)  |
@@ -62,7 +61,7 @@ más periféricos con las CPUs de la *Nintendo DS* usando interrupciones u otros
 | 34    | [Combinaciones de color](https://github.com/AleixMT/Problemas-Computadores/blob/master/34/34.pdf) [📥](https://github.com/AleixMT/Problemas-Computadores/raw/master/34/34.pdf)       | 2020-21 | 2ª Conv.     | ❤️               | -                                  |
 | 35    | [Metrónomo digital](https://github.com/AleixMT/Problemas-Computadores/blob/master/35/35.pdf) [📥](https://github.com/AleixMT/Problemas-Computadores/raw/master/35/35.pdf)            | 2021-22 | 1ª Conv. M   | 🖤               | -                                  |
 | 36    | [Control de telescopio](https://github.com/AleixMT/Problemas-Computadores/blob/master/36/36.pdf) [📥](https://github.com/AleixMT/Problemas-Computadores/raw/master/36/36.pdf)        | 2021-22 | 1ª Conv. T   | ❤️               | -                                  |
-
+| 37    | Escritura Morse                 | 2021-22 | 1ª Conv. M   | 🖤               |  ⛔                                  |
 
 
 #### Descripción de contenidos
@@ -120,3 +119,4 @@ grupo de *Discord* pinchando [aquí](https://discord.gg/WMvWRwGm).
 ([batangreet@gmail.com](batangreet@gmail.com)).
 - Santiago Romaní Also, autor de los problemas.
 - Arey Ferrero Ramos, colaborador ([areyfr@gmail.com](areyfr@gmail.com)).
+- Anna Julia, colaboradora.
