@@ -60,7 +60,7 @@ más periféricos con el procesador de la *Nintendo DS* usando interrupciones u 
 | 34    | Combinaciones de color          | 2020-21 | 2ª Conv.     | ❤️                |  ⛔                                  |
 | 35    | Metrónomo digital               | 2021-22 | 1ª Conv. M   | 🖤               |  ⛔                                  |
 | 36    | Control de telescopio           | 2021-22 | 1ª Conv. T   | ❤️                |  ⛔                                  |
-
+| 37    | Escritura Morse                 | 2021-22 | 1ª Conv. M   | 🖤               |  ⛔                                  |
 
 
 #### Descripción de contenidos
@@ -115,3 +115,4 @@ grupo de *Discord* pinchando [aquí](https://discord.gg/WMvWRwGm).
 ([batangreet@gmail.com](batangreet@gmail.com)).
 - Santiago Romaní Also, autor de los problemas.
 - Arey Ferrero Ramos, colaborador ([areyfr@gmail.com](areyfr@gmail.com)).
+- Anna Julia, colabora a ratos.
