@@ -119,4 +119,4 @@ grupo de *Discord* pinchando [aquí](https://discord.gg/WMvWRwGm).
 ([batangreet@gmail.com](batangreet@gmail.com)).
 - Santiago Romaní Also, autor de los problemas.
 - Arey Ferrero Ramos, colaborador ([areyfr@gmail.com](areyfr@gmail.com)).
-- Anna Julia, colabora a ratos.
+- Anna Julia, colaboradora.
