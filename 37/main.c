@@ -1,27 +1,27 @@
 //
 // Created by aleixmt on 30/11/22.
 //
-#define FREQ_ENT0 33513982
+#define FREQ_ENT0 33513982          // Posibles frecuencias de entrada de un timer (en Hz)
 #define FREQ_ENT1 523656
 #define FREQ_ENT2 130914
 #define FREQ_ENT3 32728
-#define MAX_LON 50
+#define MAX_LON 50                  // Longitud máxima del mensaje
 
-unsigned int nbcode[59];
-char inputstr[MAX_LON+1];
-unsigned char transmsg[MAX_LON];
-unsigned char lontr = 0;
-unsigned char curr_ind = 0,
-unsigned char curr_bit;
+unsigned int nbcode[59];            // Vector códigos (ya inicializado)
+char inputstr[MAX_LON+1];           // Mensaje introducido por usuario
+unsigned char transmsg[MAX_LON];    // Mensaje transformado
+unsigned char lontr = 0;            // Longitud mensaje transformado
+unsigned char curr_ind = 0,         // Índice de letra actual
+unsigned char curr_bit;             // número de bit actual
 
 
-int main()
+void main()
 {
     inicializaciones();
     do
     {
         leer_mensaje(inputstr, MAX_LON);
-        while (curr_ind < lontr)  // esperar el final de la reproducción del mensaje anterior (si la hay)
+        while (curr_ind < lontr)    // Eperar el final de la reproducción del mensaje anterior (si la hay)
         {
             swiWaitForVBlank();
         }
@@ -37,5 +37,4 @@ int main()
             activar_timer(0, a, b);
         }
     } while (1);
-    return(0);
 }
