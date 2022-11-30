@@ -22,7 +22,6 @@ más periféricos con las CPUs de la *Nintendo DS* usando interrupciones u otros
 | 📥 | Link de descarga del enunciado |
 ---
 
-
 | Nº    | Nombre                                                                                                                                                                              | Año     | Convocatoria | Estado solución  | Vídeo Resolución                    | 
 | :---: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---:   | :----------: | :--------------: | :---------------------------------: |
 | 1     | [Reloj de tiempo real](https://github.com/AleixMT/Problemas-Computadores/blob/master/01/1.pdf) [📥](https://github.com/AleixMT/Problemas-Computadores/raw/master/01/1.pdf)           | -       | -            | 💖               | [📺](https://youtu.be/4TT_tyNeHog)  |
@@ -61,7 +60,7 @@ más periféricos con las CPUs de la *Nintendo DS* usando interrupciones u otros
 | 34    | [Combinaciones de color](https://github.com/AleixMT/Problemas-Computadores/blob/master/34/34.pdf) [📥](https://github.com/AleixMT/Problemas-Computadores/raw/master/34/34.pdf)       | 2020-21 | 2ª Conv.     | ❤️               | -                                  |
 | 35    | [Metrónomo digital](https://github.com/AleixMT/Problemas-Computadores/blob/master/35/35.pdf) [📥](https://github.com/AleixMT/Problemas-Computadores/raw/master/35/35.pdf)            | 2021-22 | 1ª Conv. M   | 🖤               | -                                  |
 | 36    | [Control de telescopio](https://github.com/AleixMT/Problemas-Computadores/blob/master/36/36.pdf) [📥](https://github.com/AleixMT/Problemas-Computadores/raw/master/36/36.pdf)        | 2021-22 | 1ª Conv. T   | ❤️               | -                                  |
-| 37    | Escritura Morse                 | 2021-22 | 1ª Conv. M   | 🖤               |  ⛔                                  |
+| 37    | [Escritura Morse](https://github.com/AleixMT/Problemas-Computadores/blob/master/37/37.pdf) [📥](https://github.com/AleixMT/Problemas-Computadores/raw/master/37/37.pdf)              | 2021-22 | 2º Conv.     |        💛️        | [📺](https://youtu.be/m0IVBx74wgw) |
 
 
 #### Descripción de contenidos
@@ -94,7 +93,7 @@ televisión (📺) en la última columna de la tabla de la sección anterior. Ca
 la resolución correspondiente.
 
 ###### Accesibilidad 
-Los códigos de las soluciones de cada problema són públicas y gratuitas. Los vídeos de las resoluciones de cada problema 
+Los códigos de las soluciones de cada problema són públicos y gratuitos. Los vídeos de las resoluciones de cada problema 
 son de pago. Actualmente todavía se está automatizando este servicio, por lo que si quieres adquirirlos deberás 
 contactarnos directamente y poseer una cuenta de correo electrónico de *Gmail* donde recibirás los vídeos.
 
