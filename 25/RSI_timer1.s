@@ -1,6 +1,6 @@
 RSI_Timer1:
 	push {r0-r1, lr}
-	ldr r0, =num_disp		@;Cargamos dir.mem num disp
+	ldr r0, =num_disp		@; Cargamos dir.mem num disp
 	ldrb r1, [r0]
 	cmp r1, #0
 	beq .Ldetener_disparos
