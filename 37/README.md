@@ -1,17 +1,18 @@
-# Escritura Morse
+# Ficha solución
 
-Cálculo de S = ...
+| Dato | Valor | 
+| :-------------------: | :---------------------: |
+| Autor | Aleix Mariné-Tena |
+| Fecha de creación | 2022-02-02 |
+| Fecha de modificación | 2022-12-07 |
 
-... = 0b10101000 --> {8}
+---
 
-8 tic / 1 s = freq salida
-
-freq entrada = {2^15, 2^19, 2^23, 2^29} Hz
-0 <= divisor de frecuencia <= 1024
-freq salida = 8 tic / 1 s = 8 Hz
-
-freq salida = freq entrada / divisor -->
-divisor = freq entrada / freq salida
+![alt text](https://raw.githubusercontent.com/AleixMT/Problemas-Computadores/master/Soluciones/37/.fotos_enunciado_37/37-1.png)
+![alt text](https://raw.githubusercontent.com/AleixMT/Problemas-Computadores/master/Soluciones/37/.fotos_enunciado_37/37-2.png)
+![alt text](https://raw.githubusercontent.com/AleixMT/Problemas-Computadores/master/Soluciones/37/.fotos_enunciado_37/37-3.png)
+![alt text](https://raw.githubusercontent.com/AleixMT/Problemas-Computadores/master/Soluciones/37/.fotos_enunciado_37/37-4.png)
 
 
-2 ^ 3 = 2 ^ 15 / x --> x = 2 ^ 15 / 2 ^ 3 = 2 ^ 12 = 4096
+
+
