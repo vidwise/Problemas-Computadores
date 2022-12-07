@@ -1,3 +1,5 @@
+# Ficha solución
+
 | Dato | Valor | 
 | :-------------------: | :---------------------: |
 | Autor | Santiago Romaní Also |
@@ -6,6 +8,7 @@
 
 ---
 
+# Reloj de tiempo real 
 | Posición | Campo | Rangos |
 |----------|-------|--------|
 | 0 | Año | número del 0 al 99 (de 2000 a 2099) |
