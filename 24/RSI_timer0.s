@@ -2,6 +2,7 @@
 @; Pre --> i_fon = 0;
 @; REG_MOUTH ya tiene cargado fonemas[0]
 @; num_fon > 0
+RSI_timer0:
 push {r0-r3, lr}
     ldr r0, =i_fon  @; r0 = @i_fon
     ldrb r1, [r0]  @; r1 = i_fon
@@ -41,7 +42,7 @@ push {r0-r3, lr}
     ldr r0, =fonemas
     ldr r2, [r0, r1]
 
-    orr r2, r2, #0x8000 0000
+    orr r2, #0x8000 0000
     ldr r0, =REG_MOUTH  @; r0 = @REG_MOUTH
     str r2, [r0]
 

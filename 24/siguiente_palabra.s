@@ -4,6 +4,7 @@
 @;
 @; Salida:
 @; r0 = num_char en @String
+siguiente_palabra:
     push {r1-r4, lr}
 
     ldr r1, =REG_IPC_FIFO_CR  @; r1 = @REG_IPC_FIFO_CR
@@ -22,7 +23,8 @@
     b .Lbucle
 
 .Lvacio:
-    strb #0, [r0, r3]
+    mov r1, #0
+    strb r1, [r0, r3]
     mov r0, r3
 
     pop {r1-r4, pc}
