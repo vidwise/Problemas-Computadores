@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; RSI del timer 0: se activa periódicamente (240 Hz) para realizar el
 @; refresco de una fila de LEDs, en función del contenido de la
 @; variable global 'matriz'.

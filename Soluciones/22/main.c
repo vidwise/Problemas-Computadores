@@ -1,3 +1,7 @@
+//
+// Author: Santiago Romaní Also
+//
+
 #define NUM_PLANT 4                 // número de plantas a gestionar
 unsigned char planta_actual = 0;    // número de planta actual
 unsigned char sentido = 1;          // sentido de movimiento actual

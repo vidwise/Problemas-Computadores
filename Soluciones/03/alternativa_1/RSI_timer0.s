@@ -1,3 +1,6 @@
+@;
+@; Author: Arey Ferrero Ramos
+@;
 
 		@; RSI del timer 0.
 RSI_timer0:

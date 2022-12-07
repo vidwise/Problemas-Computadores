@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; RSI del timer0: se activará cada tic del timer0, correspondiente al
 @;  tiempo de referencia de los elementos del código Morse;
 @;  en caso de final de activación del pulsador, debe almacenar los

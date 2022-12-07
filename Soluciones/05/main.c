@@ -1,3 +1,7 @@
+//
+// Author: Santiago Romaní Also
+//
+
 typedef struct {
     short freq;         // frecuencia de la nota (Hz)
     short time;         // tiempo de la nota (centésimas de segundo)
@@ -22,9 +26,8 @@ int main()
         swiWaitForVBlank();
         if (cambio_nota == 1)
         {
-            printf(“Nota actual = %d\n”, nota_actual);
+            printf("Nota actual = %d\n", nota_actual);
             cambio_nota = 0;
         }
     } while (1);
-    return(0);
 }

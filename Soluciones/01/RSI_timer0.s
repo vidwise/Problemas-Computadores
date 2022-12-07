@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 push{r0, r1, lr}
 
 ldr r0, =signal

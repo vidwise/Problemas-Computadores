@@ -1,5 +1,5 @@
 //
-// Created by aleixmt on 28/1/22.
+// Author: Aleix Mariné-Tena
 //
 
 // Suponemos que REG_IO (simbolico) ya viene inicializado. Se usa para manipular el hardware de los LEDs

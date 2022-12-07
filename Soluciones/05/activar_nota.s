@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; activar_nota: dado un canal, una frecuencia y un volumen,
 @; activa la generación de sonido por ese canal por un tiempo indefinido
 @; Parámetros:

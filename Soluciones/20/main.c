@@ -1,3 +1,7 @@
+//
+// Author: Santiago Romaní Also
+//
+
 unsigned short pasos = 0;   // número de pasos pendientes a enviar
                             // (243 pasos por cm)
 char sentido;               // 1 → forward, 1 → backward

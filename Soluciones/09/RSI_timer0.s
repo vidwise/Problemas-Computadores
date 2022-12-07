@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; RSI timer0: se activa a una frecuencia aproximada de 300 Hz.
 @; Captura el estado de los bits A y B de los dos paddles, compara con
 @; el estado anterior y, en caso de cambio, determina el sentido y

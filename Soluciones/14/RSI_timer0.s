@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; RSI del timer 0: se activa 40 veces por segundo, de modo que se
 @; utilizará para activar el barrido de una fila, aunque se
 @; interpretarán las columnas activas de la fila anterior,

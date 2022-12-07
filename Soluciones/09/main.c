@@ -1,3 +1,7 @@
+//
+// Author: Santiago Romaní Also
+//
+
 #define posX1 10        // posiciones X de las raquetas (fijas)
 #define posX2 240
 

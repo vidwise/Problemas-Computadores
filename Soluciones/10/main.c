@@ -1,3 +1,7 @@
+//
+// Author: Santiago Romaní Also
+//
+
 short tics;             // contador de impulsos del timer
 short tiempo;           // número de intervalos de 5 centésimas (0-200)
 short flujo;            // nivel de flujo instantáneo (0-30)

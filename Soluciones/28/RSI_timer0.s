@@ -1,3 +1,7 @@
+@;
+@; Author: Aleix Mariné-Tena
+@;
+
 @; RSI del timer0:
 @; Se activará cada tic del timer0, correspondiente al tiempo de referencia de los elementos del código Morse;
 @; En caso de final de activación del pulsador, debe almacenar los símbolos 1 o 2 en el vector global simb[], en la

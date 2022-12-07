@@ -1,3 +1,7 @@
+//
+// Author: Aleix Mariné-Tena
+//
+
 #define NUM_ELEMS 27
 
 

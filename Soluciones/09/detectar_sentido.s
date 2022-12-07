@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; detectar_sentido: verifica el sentido de movimiento dadas dos fases
 @; consecutivas, utilizando los vectores globales s_derecha y s_izquierda
 @; Parámetros:

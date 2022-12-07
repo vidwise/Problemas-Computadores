@@ -1,3 +1,7 @@
+//
+// Author: Santiago Romaní Also
+//
+
 int current_ang = 0;        // valor actual del ángulo
 int current_ci = 0;         // identificador imagen circular actual (0..1)
 unsigned char rect_img[64 * 64];

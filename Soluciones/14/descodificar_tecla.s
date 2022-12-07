@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; descodificar_tecla: a partir del estado de los bits b3..b0 de las
 @; columnas y de la fila que se pasa por parámetro, detectar la columna
 @; de mayor peso de dicha fila que presenta pulsación (bit a 0);

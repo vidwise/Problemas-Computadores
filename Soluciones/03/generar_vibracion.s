@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; generar_vibración: dada una frecuencia por parámetro, calcula el
 @; divisor de frecuencia para el timer0 y lo activa; si la frecuencia
 @; es cero, desactiva el

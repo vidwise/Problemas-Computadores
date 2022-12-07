@@ -1,3 +1,7 @@
+//
+// Author: Santiago Romaní Also
+//
+
 char currentKey = -1;        // código de tecla actual
 char tempKey = -1;           // código de tecla temporal (para el barrido)
 char num_fila = 0;          // número de fila actual (0..3)

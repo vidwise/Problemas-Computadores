@@ -1,6 +1,6 @@
-//
-// Created by aleixmt on 21/10/22.
-//
+@;
+@; Author: Santiago Romaní Also
+@;
 
 @; RSI del timer0: se activará a cada tic del timer0 (cada 25 ms);
 @;  debe refrescar la visualización de una posición del display de

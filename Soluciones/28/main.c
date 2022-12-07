@@ -1,5 +1,5 @@
 //
-// Created by aleixmt on 28/11/22.
+// Author: Aleix Mariné-Tena
 //
 
 #define MAX_LETRAS 100                      // Máximo de letras por mensaje

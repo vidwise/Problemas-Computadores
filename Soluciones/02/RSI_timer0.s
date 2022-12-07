@@ -1,3 +1,6 @@
+@;
+@; Author: Aleix Mariné-Tena
+@;
 
 RSI_timer0:
 push{r0-r5, lr}

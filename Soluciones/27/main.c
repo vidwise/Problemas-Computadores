@@ -1,5 +1,5 @@
 //
-// Created by aleixmt on 21/10/22.
+// Author: Santiago Romaní Also
 //
 
 #define MAX_CAPTURAS 10 // máximo número de capturas (en un segundo)

@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @;transferir_radio: a partir de la dirección base de una imagen circular
 @; y del número de radio (ángulo) que se pasan por parámetro, obtener el
 @; estado de los bits de rojo, verde y azul para los 32 áxels, y

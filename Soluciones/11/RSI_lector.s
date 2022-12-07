@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; RSI del lector: se activa cada vez que el haz de luz detecta un cambio
 @; de intensidad (de claro a oscuro o de oscuro a claro).
 RSI_Lector:

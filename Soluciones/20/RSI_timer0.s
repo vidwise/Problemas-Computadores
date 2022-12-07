@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; RSI del timer 0: se activará a la frecuencia de pasos calculada
 @; según la velocidad de rotación requerida del motor; a cada
 @; activación debe cambiar de fase, según el sentido actual de avance

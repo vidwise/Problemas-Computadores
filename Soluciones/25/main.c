@@ -1,3 +1,7 @@
+//
+// Author: Arey Ferrero Ramos
+//
+
 unsigned char num_disp = 0;         // Número de disparos pendientes
 unsigned char ind_p1 = 0;           // Índice del periodo p1
 unsigned char ind_p2 = 0;           // Índice del periodo p2

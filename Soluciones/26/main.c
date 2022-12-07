@@ -1,5 +1,5 @@
 //
-// Created by aleixmt on 21/10/22.
+// Author: Santiago Romaní Also
 //
 
 #define MAX_LETRAS 100              // Máximo de letras por mensaje

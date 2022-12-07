@@ -1,3 +1,7 @@
+//
+// Author: Santiago Romaní Also
+//
+
 #define T_ELEM = 27             // se supone que todos los códigos constan
                                 // de 27 elementos (barras y espacios)
 

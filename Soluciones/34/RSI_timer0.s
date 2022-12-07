@@ -1,3 +1,7 @@
+@;
+@; Author: Aleix Mariné-Tena
+@;
+
 @; Every 1 / 30 s (1 TICK) start PWM cycle. if gradation in progress, update percentage intensity values regarding the
 @; linear ratio between the last valid intensities and the destiny intensities
 @; Every 1 / 600 s (1 MINITICK = 1 TICK / 20) perform PWM cycle

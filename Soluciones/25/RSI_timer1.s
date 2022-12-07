@@ -1,3 +1,7 @@
+@;
+@; Author: Arey Ferrero Ramos
+@;
+
 RSI_Timer1:
 	push {r0-r1, lr}
 	ldr r0, =num_disp		@; Cargamos dir.mem num disp

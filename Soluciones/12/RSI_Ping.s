@@ -1,3 +1,7 @@
+@;
+@; Author: Arey Ferrero Ramos
+@;
+
 		@; RSI del sensor de distancia.
 RSI_Ping:
 	push {r0-r2, lr}

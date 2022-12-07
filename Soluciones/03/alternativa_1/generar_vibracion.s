@@ -1,3 +1,6 @@
+@;
+@; Author: Arey Ferrero Ramos
+@;
 
 		@; Rutina para generar la vibración del dispositivo.
 		@; R0 = Frecuencia de salida de la vibración.

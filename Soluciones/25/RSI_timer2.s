@@ -1,3 +1,7 @@
+@;
+@; Author: Arey Ferrero Ramos
+@;
+
 RSI_Timer2:
 	push {r0-r3, lr}
 	

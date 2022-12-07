@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; normalizar_tiempos: obtiene los tiempos relativos de todos los
 @; elementos de un código de barras de 6 dígitos, dividiendo los tiempos
 @; absolutos por un tiempo de referencia (T) correspondiente a la anchura

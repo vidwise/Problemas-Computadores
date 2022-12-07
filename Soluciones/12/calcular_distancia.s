@@ -1,3 +1,7 @@
+@;
+@; Author: Arey Ferrero Ramos
+@;
+
 		@; Rutina para calcular la distancia a partir del tiempo transcurrido (en forma de número de tics).
 		@; R0 = Número de tics correspondientes al tiempo transcurrido.
 		@; Retorna la distancia por R0.

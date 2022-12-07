@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; RSI timer0: se activa a una frecuencia aproximada de 2000 Hz.
 @; Captura el estado del bit que introduce el tren de impulsos,
 @; i lo compara con el estado anterior para determinar cuando hay un

@@ -1,3 +1,6 @@
+@;
+@; Author: Aleix Mariné-Tena
+@;
 
 @;             normalizar_tiempos(int* t_abs, char* t_rel);
 normalizar_tiempos:

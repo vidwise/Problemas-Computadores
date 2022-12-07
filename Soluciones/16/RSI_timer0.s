@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; RSI del timer 0: se activa 256*25 veces por segundo;
 @; se utilizará para transferir una linea de píxeles circulares al
 @; display de revolución, es decir, un radio con 32 áxels, según la

@@ -1,3 +1,7 @@
+//
+// Author: Santiago Romaní Also
+//
+
 unsigned char matriz[8][8];                 //valores de los LEDs, en cada posición:
                                             // = 0 → vacía (apagado)
                                             // = 1 → ficha jugador 1 (rojo)

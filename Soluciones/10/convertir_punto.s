@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; convertir_punto: convierte los valores de (tiempo, flujo), expresados
 @; con rangos de (0-200) y (0-30) respectivamente, a valores de píxeles
 @; (px, py), expresados con rangos de (20-220) y (0-180) respectivamente,

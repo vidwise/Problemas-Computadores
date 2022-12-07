@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @;RSI de la interfaz con el ascensor: se activará cada vez que el
 @; ascensor llegue a una nueva planta; activará la variable global
 @; 'nueva_planta' y actualizará 'planta_actual' consecuentemente;

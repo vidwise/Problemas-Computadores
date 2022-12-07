@@ -1,4 +1,6 @@
-
+@;
+@; Author: Santiago Romaní Also
+@;
 
 
 @; Me entra puntero a char de 6 pos en r0

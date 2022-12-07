@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; RSI del timer 1: se activa periódicamente (3 Hz) para realizar la
 @; caída de la ficha, una fila por cada activación de la RSI, hasta
 @; que detecte otra ficha en la fila inferior o hasta que llegue a

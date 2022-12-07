@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; RSI timer0: se activa a la frecuencia programada (5, 20 o 50 Hz).
 @; Cambia el estado del bit 1 del registro REG_RUMBLE
 RSI_Timer0:

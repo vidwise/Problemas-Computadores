@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; intr_main: rutina principal de gestión de las interrupciones;
 @; comprueba si se ha activado la RSI del timer 0 y, en caso afirmativo,
 @; invoca a la rutina RSI_timer0();

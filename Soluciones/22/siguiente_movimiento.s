@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; siguiente_movimiento: calcula cual es el siguiente sentido del
 @; movimiento del motor, según las peticiones pendientes (se supone que
 @; existe al menos una), la planta actual y el sentido actual del

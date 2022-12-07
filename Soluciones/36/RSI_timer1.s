@@ -1,3 +1,6 @@
+@;
+@; Author: Aleix Mariné-Tena
+@;
 
 RSI_timer1:
 

@@ -1,3 +1,7 @@
+@;
+@; Author: Santiago Romaní Also
+@;
+
 @; RSI timer0: se activa a 100 veces por segundo (100 Hz) y decrementa
 @; el tiempo restante de la nota actual: si llega a 0, carga la siguiente
 @; nota.

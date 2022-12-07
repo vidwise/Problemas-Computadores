@@ -1,6 +1,7 @@
 //
-// Created by aleixmt on 30/11/22.
+// Author: Santiago Romaní Also
 //
+
 #define FREQ_ENT0 33513982          // Posibles frecuencias de entrada de un timer (en Hz)
 #define FREQ_ENT1 523656
 #define FREQ_ENT2 130914
