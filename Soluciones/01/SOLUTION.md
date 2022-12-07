@@ -1,4 +1,11 @@
 # Reloj de tiempo real 
+
+El problema trata sobre el dispositivo "reloj RTC" el cual usaremos para implementar un programa sencillo que enseñe la
+hora actualizada por pantalla. En concreto tendremos que programar un main en C,  un timer en assembler y una rutina de
+transformación de datos en assembler. Este problema tiene un pico de dificultad en la rutina de transformación de datos
+debido a que hay que implementar una estructura de control for / if, donde recorremos un array de datos pero tenemos que
+lidiar con una excepción en el flujo del bucle.
+
 | Posición | Campo | Rangos |
 |----------|-------|--------|
 | 0 | Año | número del 0 al 99 (de 2000 a 2099) |
@@ -77,6 +84,8 @@ and r2, r0, 0b 0000 1111  @; 15
 add r0, r3, r2
 
 return r0
+
+
 
 
 
