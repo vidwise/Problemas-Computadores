@@ -4,7 +4,7 @@ RSI_Ping:
 	ldr r2, =fase
 	ldrb r0, [r2]
 	cmp r0, #0
-	beq .Lcapturar_tiempo
+	bne .Lcapturar_tiempo
 	bl cpuStartTiming
 	mov r0, #1
 	b .Lfin_capturar_tiempo
