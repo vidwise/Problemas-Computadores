@@ -1,6 +1,6 @@
----
 
-| Dato                  | Valor                   | 
+
+| Dato | Valor | 
 | :-------------------: | :---------------------: |
 | Autor | Santiago Romaní Also |
 | Fecha de creación | 2022-09-28 |
