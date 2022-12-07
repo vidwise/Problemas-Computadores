@@ -1,3 +1,10 @@
+---
+| Dato                  | Valor                   | 
+| :---:                 | :-----------------:     |
+| Autor                 | Santiago Romaní Also    |
+| Fecha de creación     | 2022-09-28              |
+| Fecha de modificación | 2022-12-07              |
+---
 
 | Posición | Campo | Rangos |
 |----------|-------|--------|
