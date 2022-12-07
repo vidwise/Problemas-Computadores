@@ -1,9 +1,13 @@
-# Lector de códigos de barras
+# Ficha solución
 
-Esta solución principalmente tiene la diferencia con la solución del profesor en que en lugar de usar el parámetro de
-dispersión 'mediana' para obtener el valor definitivo de T, se usa el parámetro de dispersión 'media aritmética' usando
-la rutina `swi 9` para realizar la división. Todo lo demás es más o menos equivalente, aunque no se lleva a cabo el paso
-de reducción preventiva de T. 
+| Dato | Valor | 
+| :-------------------: | :---------------------: |
+| Autor | Aleix Mariné Tena |
+| Fecha de creación | 2022-10-10 |
+| Fecha de modificación | 2022-11-07 |
 
-# Autor
-Aleix Mariné-Tena
+---
+
+![alt text](https://raw.githubusercontent.com/AleixMT/Problemas-Computadores/master/Soluciones/11/.fotos_enunciado_11/11-1.png)
+![alt text](https://raw.githubusercontent.com/AleixMT/Problemas-Computadores/master/Soluciones/11/.fotos_enunciado_11/11-2.png)
+

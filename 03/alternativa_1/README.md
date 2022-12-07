@@ -1,4 +1,13 @@
-Problema 3 Generador de vibración
+# Ficha solución
 
+| Dato | Valor | 
+| :-------------------: | :---------------------: |
+| Autor | Arey Ferrero Ramos |
+| Fecha de creación | 2022-11-08 |
+| Fecha de modificación | 2022-12-07 |
 
+---
+
+![alt text](https://raw.githubusercontent.com/AleixMT/Problemas-Computadores/master/Soluciones/03/.fotos_enunciado_03/03-1.png)
+![alt text](https://raw.githubusercontent.com/AleixMT/Problemas-Computadores/master/Soluciones/03/.fotos_enunciado_03/03-2.png)
 
