@@ -2,7 +2,7 @@
 @; Author: Arey Ferrero Ramos
 @;
 
-		@; RSI del timer 0.
+@; RSI del timer 0.
 RSI_timer0:
 	push {r0-r1, lr}
 	ldr r0, =REG_RUMBLE
