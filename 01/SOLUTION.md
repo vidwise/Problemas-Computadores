@@ -1,5 +1,3 @@
-
-
 | Dato | Valor | 
 | :-------------------: | :---------------------: |
 | Autor | Santiago Romaní Also |
