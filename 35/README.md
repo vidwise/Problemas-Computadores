@@ -1,1 +1,0 @@
-# Metrónomo digital

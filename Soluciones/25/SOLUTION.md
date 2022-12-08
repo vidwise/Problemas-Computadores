@@ -1,0 +1,1 @@
+# Disparador de cámara réflex
