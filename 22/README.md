@@ -1,1 +1,0 @@
-Ascensor con memoria

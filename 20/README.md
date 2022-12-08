@@ -1,1 +1,0 @@
-Motor de tracción
