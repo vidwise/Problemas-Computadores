@@ -23,7 +23,7 @@ activar_nota:
     ldr r1, =0x04000400
     orr r1, r0              @; R1 = dirección registro de control
     strh r3, [r1, #4]       @; guardar valor divisor de frecuencia
-    orr r2, #0xA0000000     @; activar bits inicio + bucle infinito
+    orr r2, #0x88000000     @; activar bits inicio + bucle infinito
     strh r2, [r1]           @; guardar valor registro control
 
     pop {r0-r3, pc}

@@ -24,7 +24,8 @@ RSI_Timer0:
         strh r3, [r2]           @; actualizar nota_actual
 
         ldr r2, =musica         @; R2 = dir. base vector música
-        mul r4, r3, #6          @; R4 = offset de nota actual
+	mov r4, #6
+        mul r4, r3, r4          @; R4 = offset de nota actual
         push {r0, r2}
         mov r0, #0              @; canal 0
         ldrh r1, [r2, r4]       @; frecuencia
