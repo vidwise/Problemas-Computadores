@@ -98,16 +98,16 @@ Los códigos de las soluciones de cada problema són públicos y gratuitos. Los 
 son de pago. Actualmente todavía se está automatizando este servicio, por lo que si quieres adquirirlos deberás 
 contactarnos directamente y poseer una cuenta de correo electrónico de *Gmail* donde recibirás los vídeos.
 
-## ¡Apóyanos! 
+## ¡Apóyanos! 💪
 Si usas estas soluciones y quieres que los que vengan detrás de ti también puedan disfrutar de ellos, puedes:
-* Dejar una estrella en este repositorio.
-* Compartir este repositorio a quien le pueda interesar.
-* Colaborar con tus propias soluciones usando una *pull request*.  
-* Proponer optimizaciones a las soluciones usando una *pull request* o abriendo un nuevo *issue*. 
-* Hacer una pequeña donación a través de nuestro [Buy Me A Coffee](https://www.buymeacoffee.com/VidWise).
+* ⭐ Dejar una estrella en este repositorio. 
+* 📣 Compartir este repositorio a quien le pueda interesar.
+* 📤 Colaborar con tus propias soluciones usando una *pull request*.  
+* 💭 Proponer optimizaciones a las soluciones usando una *pull request* o abriendo un nuevo *issue*.c 
+* ☕ Hacer una pequeña donación a través de nuestro [Buy Me A Coffee](https://www.buymeacoffee.com/VidWise).
 
 Para cualquier problema, duda, sugerencia, queja o comentario también puedes contactar con la dirección de correo 
-electrónico [batangreet@gmail.com](batangreet@gmail.com).
+electrónico [batangreet@gmail.com](mailto:batangreet@gmail.com).
 
 ## Motivación
 Este repositorio ha sido creado como soporte para clases de repaso. Si estás interesad@ en estos servicios puedes
@@ -115,8 +115,9 @@ unirte (sin compromiso) al grupo de *WhatsApp* pinchando [aquí](https://chat.wh
 grupo de *Discord* pinchando [aquí](https://discord.gg/WMvWRwGm).
 
 ## Autoría, colaboraciones y agradecimientos
-- Aleix Mariné-Tena (@AleixMT), autor y mantenedor de este repositorio, en nombre de VidWise Academy.
-([batangreet@gmail.com](batangreet@gmail.com)).
-- Santiago Romaní Also, autor de los problemas.
-- Arey Ferrero Ramos, colaborador ([areyfr@gmail.com](areyfr@gmail.com)).
-- Anna Julia, colaboradora.
+- Aleix Mariné-Tena ([@AleixMT](https://github.com/AleixMT)) ([batangreet@gmail.com](mailto:batangreet@gmail.com)): Autor, mantenedor, contribuidor y profesor.
+- Santiago Romaní Also: Autor de los problemas.
+- Arey Ferrero Ramos ([@AreyFerreroRamos](https://github.com/AreyFerreroRamos)) ([areyfr@gmail.com](mailto:areyfr@gmail.com)): Contribuidor y profesor.
+- Anna Julia ([@annaju128](https://github.com/annaju128)): contribuidora y profesora.
+- Sergio Arévalo ([@sergioarevro](https://github.com/sergioarevro)) ([sergio.arevaloroa@gmail.com](mailto:sergio.arevaloroa@gmail.com)): Alumno colaborador.
+- Isaac Chortó ([@IsaacChortó](https://github.com/IsaacChorto)): Alumno colaborador.
