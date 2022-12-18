@@ -60,7 +60,9 @@ más periféricos con las CPUs de la *Nintendo DS* usando interrupciones u otros
 | 34    | [Combinaciones de color](https://github.com/AleixMT/Problemas-Computadores/blob/master/Soluciones/34/34.pdf) [📥](https://github.com/AleixMT/Problemas-Computadores/raw/master/Soluciones/34/34.pdf)         | 2020-21 | 2ª Conv.     | ❤️               | -                                  |
 | 35    | [Metrónomo digital](https://github.com/AleixMT/Problemas-Computadores/blob/master/Soluciones/35/35.pdf) [📥](https://github.com/AleixMT/Problemas-Computadores/raw/master/Soluciones/35/35.pdf)              | 2021-22 | 1ª Conv. M   | 🖤               | -                                  |
 | 36    | [Control de telescopio](https://github.com/AleixMT/Problemas-Computadores/blob/master/Soluciones/36/36.pdf) [📥](https://github.com/AleixMT/Problemas-Computadores/raw/master/Soluciones/36/36.pdf)          | 2021-22 | 1ª Conv. T   | ❤️               | -                                  |
-| 37    | [Escritura Morse](https://github.com/AleixMT/Problemas-Computadores/blob/master/Soluciones/37/37.pdf) [📥](https://github.com/AleixMT/Problemas-Computadores/raw/master/Soluciones/37/37.pdf)                | 2021-22 | 2º Conv.     |        💛️        | [📺](https://youtu.be/m0IVBx74wgw) |
+| 37    | [Escritura Morse](https://github.com/AleixMT/Problemas-Computadores/blob/master/Soluciones/37/37.pdf) [📥](https://github.com/AleixMT/Problemas-Computadores/raw/master/Soluciones/37/37.pdf)                | 2021-22 | 2º Conv.     |        💛️        | -                                  |
+| 38    | [Teléfono Vintage](https://github.com/AleixMT/Problemas-Computadores/blob/master/Soluciones/38/38.pdf) [📥](https://github.com/AleixMT/Problemas-Computadores/raw/master/Soluciones/38/38.pdf)               | 2022-23 | 1ª Conv. M   | 🖤️               | -                                  |
+| 39    | [Lanzamiento con electroimanes](https://github.com/AleixMT/Problemas-Computadores/blob/master/Soluciones/37/37.pdf) [📥](https://github.com/AleixMT/Problemas-Computadores/raw/master/Soluciones/37/37.pdf)  | 2022-23 | 1º Conv. T   |        🖤        | -                                  |
 
 
 #### Descripción de contenidos
@@ -71,8 +73,8 @@ Dentro de la carpeta de cada problema encontramos varios elementos:
  * **El enunciado del problema correspondiente en un archivo `.pdf`** con el mismo nombre que el número de problema. 
    Esto es útil, ya que hace el enunciado visible, descargable y accesible directamente a través de un navegador, usando 
    la interfaz web de *GitHub*. Por ejemplo, el enunciado del problema 1 puede verse usando 
-   este enlace [https://github.com/AleixMT/Problemas-Computadores/blob/master/Soluciones/01/1.pdf](https://github.com/AleixMT/Problemas-Computadores/blob/master/Soluciones/01/1.pdf) 
-   o descargarse usando este otro [https://github.com/AleixMT/Problemas-Computadores/raw/master/Soluciones/01/1.pdf](https://github.com/AleixMT/Problemas-Computadores/raw/master/Soluciones/01/1.pdf). 
+   este enlace [https://github.com/AleixMT/Problemas-Computadores/blob/master/Soluciones/01/01.pdf](https://github.com/AleixMT/Problemas-Computadores/blob/master/Soluciones/01/01.pdf) 
+   o descargarse usando este otro [https://github.com/AleixMT/Problemas-Computadores/raw/master/Soluciones/01/01.pdf](https://github.com/AleixMT/Problemas-Computadores/raw/master/Soluciones/01/01.pdf). 
    Lo análogo con cualquier otro archivo en el repositorio. Un enlace para visualizar el enunciado de cada problema está 
    vinculado al texto del nombre del problema en la tabla anterior. Haciendo clic en el nombre del problema se te
    redirigirá al enunciado. Haciendo clic en el emoji 📥 se descargará el enunciado.
