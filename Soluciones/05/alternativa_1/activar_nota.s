@@ -1,3 +1,7 @@
+@;
+@; Author: Arey Ferrero Ramos
+@;
+
 		@; Rutina para activar una nota.
 		@; R0 = Canal de sonido.
 		@; R1 = Frecuencia de la nota.

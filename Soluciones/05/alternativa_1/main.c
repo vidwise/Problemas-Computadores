@@ -1,3 +1,7 @@
+//
+// Author: Arey Ferrero Ramos
+//
+
 typedef struct
 {
 	short freq;
