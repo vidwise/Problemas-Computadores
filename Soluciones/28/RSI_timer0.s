@@ -1,5 +1,5 @@
 @;
-@; Author: Aleix Mariné-Tena
+@; Author: Santiago Romaní Also
 @;
 
 @; RSI del timer0:

@@ -1,5 +1,5 @@
 //
-// Author: Aleix Mariné-Tena
+// Author: Santiago Romaní Also
 //
 
 #define MAX_LETRAS 100                      // Máximo de letras por mensaje
