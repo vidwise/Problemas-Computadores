@@ -2,9 +2,9 @@
 
 | Dato | Valor | 
 | :-------------------: | :---------------------: |
-| Autor | - |
-| Fecha de creación | - |
-| Fecha de modificación | - |
+| Autor | Santiago Romaní Also |
+| Fecha de creación | 2022-12-24 |
+| Fecha de modificación | 2022-12-24 |
 
 ---
 
