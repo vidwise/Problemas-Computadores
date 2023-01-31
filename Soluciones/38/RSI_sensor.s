@@ -5,6 +5,7 @@
 		@; RSI del sensor.
 RSI_sensor:
 	push {r0-r5, lr}
+	
 	ldr r4, =num_pulses
 	ldrb r0, [r4]			@; Cargamos el número de pulsos.
 	ldr r5, =REG_TEL
@@ -33,4 +34,5 @@ RSI_sensor:
 .Lfin_tratar_digit:
 	strb r0, [r4]			@; Guardamos el nuevo valor del número de pulsos.
 	strb r1, [r5]			@; Guardamos el nuevo valor del registro REG_TEL.
+	
 	pop {r0-r5, pc}
