@@ -2,9 +2,9 @@
 
 | Dato | Valor | 
 | :-------------------: | :---------------------: |
-| Autor | - |
-| Fecha de creación | - |
-| Fecha de modificación | - |
+| Autor | Arey Ferrero Ramos |
+| Fecha de creación | 2023-01-31 |
+| Fecha de modificación | 2023-01-31 |
 
 ---
 
