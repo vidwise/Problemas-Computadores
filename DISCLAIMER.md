@@ -123,9 +123,6 @@ actividad comercial.
 [@AreyFerreroRamos](https://github.com/AreyFerreroRamos) y [@annaju128](https://github.com/annaju128) no se hacen 
 responsables de cualquier mal uso que se le pueda dar al contenido de este repositorio.
 
-Y para que quede constancia, [@AleixMT](https://github.com/AleixMT), 
-[@AreyFerreroRamos](https://github.com/AreyFerreroRamos) y [@annaju128](https://github.com/annaju128) firman este 
-disclaimer:
-- [@AleixMT](https://github.com/AleixMT)
-- [@AreyFerreroRamos](https://github.com/AreyFerreroRamos)
-- [@annaju128](https://github.com/annaju128)
+Y para que quede constancia, los colaboradores principales del repositorio 
+[@AreyFerreroRamos](https://github.com/AreyFerreroRamos) y [@annaju128](https://github.com/annaju128) dan fe de todo
+lo declarado en este disclaimer y [@AleixMT](https://github.com/AleixMT) firma este documento electrónicamente.
