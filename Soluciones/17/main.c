@@ -14,24 +14,24 @@ unsigned short buffVinst[180];
 
 void main()
 {
-	inicializaciones();			
-	do 
-	{
-		tareas_independientes();
-		scanKeys();
-		if (keysDown() == KEY_START)
-		{					// Si se ha pulsado la tecla start
-			Drayos = 0;				// Reiniciar los contadores.
-			Tdist = 0;
-			Ttiempo = 0;
-			for (ind = 0; ind < 180; ind++)
-			{					// Reiniciar el buffer con las velocidades instantáneas.
-				buffVinst[ind] = 0;
-			}
-			ind = 0;
-		}
-		swiWaitForVBlank();
-		representarInfo(Vinst, Vmed, Tdist, buffVinst, ind);
-	} while(1);
+    inicializaciones();			
+    do 
+    {
+        tareas_independientes();
+        scanKeys();
+        if (keysDown() == KEY_START)
+        {                                       // Si se ha pulsado la tecla start
+            Drayos = 0;                         // Reiniciar los contadores.
+            Tdist = 0;
+            Ttiempo = 0;
+            for (ind = 0; ind < 180; ind++)
+            {                                   // Reiniciar el buffer con las velocidades instantáneas.
+                buffVinst[ind] = 0;
+            }
+            ind = 0;
+        }
+        swiWaitForVBlank();
+        representarInfo(Vinst, Vmed, Tdist, buffVinst, ind);
+    } while(1);
 }
 
