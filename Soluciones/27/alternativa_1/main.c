@@ -2,7 +2,6 @@
 // Author: Arey Ferrero Ramos
 //
 
-
 #define MAX_CAPTURAS 10
 
 unsigned char Vsegments[] = {63, 6, 91, 79, 102, 109, 125, 7, 127, 111};
