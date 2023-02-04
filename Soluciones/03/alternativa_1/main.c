@@ -2,7 +2,6 @@
 // Author: Arey Ferrero Ramos
 //
 
-
 int main()
 {
     int keys;
@@ -14,22 +13,22 @@ int main()
         scanKeys();
         keys = keysDown();
         if (keys == KEY_X)
-        {
-            frec = 5;
+        {                                // Si se pulsa la tecla X
+            frec = 5;                    // la frecuencia será de 5 Hz.
         }
         if (keys == KEY_Y)
-        {
-            frec = 20;
+        {                                // Si se pulsa la tecla Y
+            frec = 20;                   // la frecuencia será de 20 Hz.
         }
         if (keys == KEY_A)
-        {
-            frec = 50;
+        {                                // Si se pulsa la tecla A
+            frec = 50;                   // la frecuencia será de 50 Hz.
         }
         if (frec)
-        {
-            generar_vibracion(frec);
-            retardo(5);
-            generar_vibracion(0);
+        {                                // Si se requiere una vibración (se han pulsado las teclas)
+            generar_vibracion(frec);     // se genera una vibración
+            retardo(5);                  // durante medio segundo.
+            generar_vibracion(0);        // y se para la vibración.
         }
         swiWaitForVBlank();
         printf("La frecuencia de la última vibración activada es de %d Hz", frec);
