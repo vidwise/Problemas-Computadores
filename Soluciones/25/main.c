@@ -13,10 +13,12 @@ unsigned char actualizar_info = 0;  // Indica si hay que actualizar información
 void main()
 {
     int keys = 0;
+    
     inicializaciones();
     do
     {
         tareas_independientes();
+        
         scanKeys();
         keys = keysDown();
         if(keys & KEY_START)
@@ -48,6 +50,7 @@ void main()
             ind_p2++;
             actualizar_info = 1;
         }
+        
         swiWaitForVBlank();                         // Se pone fuera porque la evaluación de la condición apenas ralentiza el programa y no existirán problemas de colisiones
                                                     // Así, se disminuye el consumo de la CPU aunque no haya pulsación de teclas.
         if (actualizar_info == 1)
