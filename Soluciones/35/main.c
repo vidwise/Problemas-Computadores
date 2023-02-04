@@ -1,7 +1,11 @@
+//
+// Author: Arey Ferrero Ramos.
+//
+
 typedef struct                                          // Coordenadas de sprites
 {
-	short px;                                           // [-64..288]
-	short py;                                           // [-32..224]
+    short px;                                           // [-64..288]
+    short py;                                           // [-32..224]
 } t_pos;
 
 t_pos ang_pos[360];                                     // Vector con posiciones (px, py) para cada ángulo
@@ -15,16 +19,16 @@ unsigned int fraccion = ((bpm / accent) / 10) << 12;    // Incremento del ángul
 
 int main(void)
 {
-	inicializaciones();
-	do
-	{
-		tareas_independientes();
-		if (gestionar_botones())
-		{                                               // Actualizar fracción según nuevos
-			fraccion = ((bpm / accent) / 10) << 12;     // Valores de bpm i accent
-		}
-		swiWaitForVBlank();
-		actualizar_pantallas();
-        // activar_beat();                              // ???
-	} while(1);
+    inicializaciones();
+    do
+    {
+        tareas_independientes();
+        if (gestionar_botones())
+        {                                               // Actualizar fracción según nuevos
+	    fraccion = ((bpm / accent) / 10) << 12;     // Valores de bpm i accent
+        }
+        swiWaitForVBlank();
+        actualizar_pantallas();
+        // activar_beat();
+    } while(1);
 }
