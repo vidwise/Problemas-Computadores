@@ -7,11 +7,15 @@
     @; Retorna la distancia por R0.
 calcular_distancia:
     push {r1, r3, lr}
+    
     mov r1, r0, lsr #1
     mov r0, #5
     mul r0, r1, r0
+    
     ldr r1, =168000000
     swi 9
+    
     ldr r1, =34000
     mul r0, r1, r0
+    
     pop {r1, r3, pc}
