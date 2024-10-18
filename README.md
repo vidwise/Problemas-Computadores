@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Veo a todos los alumnos de Computadores de Ingeniería Informática de la URV usar mi listado de problemas pero nadie starreando ⭐ este repositorio (poner una estrella, el equivalente al like en GitHub). Si sigo viendo tráfico de este repositorio pero ningún tipo de aportación (aportar soluciones, proponer correcciones o mejoras, añadir comentarios o, como mínimo, poner una estrella) voy a terminar por ocultarlo y solamente yo tendré acceso. No estoy pidiendo dinero, poner estrella es totalmente gratis, pero sí creo que merezco reconocimiento por parte de cada persona que usa mi repositorio. 
+
 # Problemas-Computadores
 Repositorio de soluciones a los problemas de la asignatura de **Computadores** de la universidad *Rovira i Virgili* 
 del grado de **Ingeniería Informática**. 
