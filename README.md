@@ -1,8 +1,8 @@
-[!WARNING]
+> [!WARNING]
 > ⚠️ Estado del proyecto: Buscando un mantenedor ⚠️
 Contacta con amarine@urv.cat para más información.
 
-[!NOTE]
+> [!NOTE]
 > No puedo seguir manteniendo este repositorio porque ahora
 soy profesor oficial de esta asignatura en la URV,
 lo que me da acceso privilegiado a las soluciones de los problemas, y ya no puedo publicarlas.
