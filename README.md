@@ -1,24 +1,28 @@
-> [!WARNING]
-> ⚠️ Project Status: Looking for a maintainer ⚠️ 
-> Contact [amarine@urv.cat](amarine@urv.cat) for info. 
+[!WARNING]
+⚠️ Estado del proyecto: Buscando un mantenedor ⚠️
+Contacta con amarine@urv.cat para más información.
 
-> [!NOTE] 
-> I can't keep maintaining this repository because now 
-> [I'm an official teacher of this subject at URV](https://www.urv.cat/html/docencia-per-centre/docencia-I65230.php), 
-> so I have privileged information of the solutions of the problem that I can't post anymore. 
-> I’m looking for students interested in taking over its development and future improvements.
-> In the coming months I will implement two implementable problems in order to set the bases for this new type of 
-> problems, so the future maintainers have a working example to proceed for upcoming problems with these 
-> characteristics. I am also planning giving the last touches to the documentation and the repository itself.
-> If you’re interested in maintaining this repository, please 
-> [open an issue](https://github.com/vidwise/Problemas-Computadores/issues/new) or contact me directly at 
-> [amarine@urv.cat](amarine@urv.cat).
-> Maintaining this repository has been a wonderful adventure that proved to me (once again) that the more you give, the 
-> more you got ❤️: This started as a way to share the solutions that I generated in class with my students and to 
-> advertise my own services as a teacher, but ended up being the reason of me being able to work in the university and 
-> also being the repository in all my GitHub profile with the most stars ⭐.
-> Thank you to everyone who has contributed! 🫶
-> With love ❤️, Aleix 
+[!NOTE]
+No puedo seguir manteniendo este repositorio porque ahora
+soy profesor oficial de esta asignatura en la URV,
+lo que me da acceso privilegiado a las soluciones de los problemas, y ya no puedo publicarlas.
+Estoy buscando estudiantes interesados en continuar con su desarrollo y futuras mejoras.
+
+En los próximos meses, implementaré dos problemas para establecer las bases de este nuevo tipo de ejercicios,
+de modo que los futuros mantenedores tengan un ejemplo funcional para trabajar en problemas similares.
+También tengo previsto dar los últimos retoques a la documentación y al repositorio.
+
+Si estás interesado en hacerte cargo de este repositorio, por favor
+abre un issue o contáctame directamente en
+amarine@urv.cat.
+
+Mantener este repositorio ha sido una experiencia maravillosa que me ha demostrado (una vez más) que cuanto más das, más recibes ❤️.
+Lo que comenzó como una forma de compartir con mis estudiantes las soluciones que generaba en clase
+y promocionar mis servicios como docente, terminó siendo la razón por la que conseguí trabajar en la universidad
+y también el repositorio con más estrellas ⭐ en todo mi perfil de GitHub.
+
+¡Gracias a todos los que han contribuido!  🥰️
+Con amor, Aleix
 
 > [!CAUTION]
 > Veo a todos los alumnos de Computadores de Ingeniería Informática de la URV usar mi listado de problemas pero nadie starreando ⭐ este repositorio (poner una estrella, el equivalente al like en GitHub). Si sigo viendo tráfico de este repositorio pero ningún tipo de aportación (aportar soluciones, proponer correcciones o mejoras, añadir comentarios o, como mínimo, poner una estrella) voy a terminar por ocultarlo y solamente yo tendré acceso. No estoy pidiendo dinero, poner estrella es totalmente gratis, pero sí creo que merezco reconocimiento por parte de cada persona que usa mi repositorio. 
