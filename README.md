@@ -7,7 +7,7 @@ Contacta con amarine@urv.cat para más información.
 soy profesor oficial de esta asignatura en la URV,
 lo que me da acceso privilegiado a las soluciones de los problemas, y ya no puedo publicarlas.
 Estoy buscando estudiantes interesados en continuar con su desarrollo y futuras mejoras.
-
+>
 > En los próximos meses, implementaré dos problemas para establecer las bases de este nuevo tipo de ejercicios,
 de modo que los futuros mantenedores tengan un ejemplo funcional para trabajar en problemas similares.
 También tengo previsto dar los últimos retoques a la documentación y al repositorio.
