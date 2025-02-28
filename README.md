@@ -1,27 +1,27 @@
 [!WARNING]
-⚠️ Estado del proyecto: Buscando un mantenedor ⚠️
+> ⚠️ Estado del proyecto: Buscando un mantenedor ⚠️
 Contacta con amarine@urv.cat para más información.
 
 [!NOTE]
-No puedo seguir manteniendo este repositorio porque ahora
+> No puedo seguir manteniendo este repositorio porque ahora
 soy profesor oficial de esta asignatura en la URV,
 lo que me da acceso privilegiado a las soluciones de los problemas, y ya no puedo publicarlas.
 Estoy buscando estudiantes interesados en continuar con su desarrollo y futuras mejoras.
 
-En los próximos meses, implementaré dos problemas para establecer las bases de este nuevo tipo de ejercicios,
+> En los próximos meses, implementaré dos problemas para establecer las bases de este nuevo tipo de ejercicios,
 de modo que los futuros mantenedores tengan un ejemplo funcional para trabajar en problemas similares.
 También tengo previsto dar los últimos retoques a la documentación y al repositorio.
 
-Si estás interesado en hacerte cargo de este repositorio, por favor
+> Si estás interesado en hacerte cargo de este repositorio, por favor
 abre un issue o contáctame directamente en
 amarine@urv.cat.
 
-Mantener este repositorio ha sido una experiencia maravillosa que me ha demostrado (una vez más) que cuanto más das, más recibes ❤️.
+> Mantener este repositorio ha sido una experiencia maravillosa que me ha demostrado (una vez más) que cuanto más das, más recibes ❤️.
 Lo que comenzó como una forma de compartir con mis estudiantes las soluciones que generaba en clase
 y promocionar mis servicios como docente, terminó siendo la razón por la que conseguí trabajar en la universidad
 y también el repositorio con más estrellas ⭐ en todo mi perfil de GitHub.
 
-¡Gracias a todos los que han contribuido!  🥰️
+> ¡Gracias a todos los que han contribuido!  🥰️
 Con amor, Aleix
 
 > [!CAUTION]
