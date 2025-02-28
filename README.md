@@ -13,8 +13,8 @@ de modo que los futuros mantenedores tengan un ejemplo funcional para trabajar e
 También tengo previsto dar los últimos retoques a la documentación y al repositorio.
 >
 > Si estás interesado en hacerte cargo de este repositorio, por favor
-abre un issue o contáctame directamente en
-amarine@urv.cat.
+[abre un nuevo issue](https://github.com/vidwise/Problemas-Computadores/issues/new) o contáctame directamente a
+[amarine@urv.cat](amarine@urv.cat).
 >
 > Mantener este repositorio ha sido una experiencia maravillosa que me ha demostrado (una vez más) que cuanto más das, más recibes ❤️.
 Lo que comenzó como una forma de compartir con mis estudiantes las soluciones que generaba en clase
