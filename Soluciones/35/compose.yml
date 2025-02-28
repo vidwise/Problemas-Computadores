@@ -1,0 +1,9 @@
+services:
+  bmde-linux:
+    image: aleixmt/bmde-linux:latest
+    container_name: bmde-linux-container
+    volumes:
+      - .:/input/35
+      - ./bin:/output
+    stdin_open: true
+    tty: true
